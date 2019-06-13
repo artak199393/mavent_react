@@ -1,0 +1,27 @@
+.feedbackImg{
+    background-image: url('../img/callback.png');
+    height: 730px;
+    color: white;
+    margin-top: 82px
+    
+}
+.inputGroup{
+    width: 335px;
+    height: 466px;
+    margin-top: 46px;
+    margin-left:39%;
+}
+.buttonSend{
+    width: 335px;
+    height: 42px;
+}
+.title{
+    padding-top: 70px;
+    text-align: center;
+}
+.titleText{
+    padding-top: 30px;
+}
+.text{
+    height: 146px;
+}

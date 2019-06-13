@@ -2,20 +2,42 @@
     margin-top: 71px;
     margin-left: 630px;
 }
-.objectText{
-    
-    color:white;
-    font-size: 16px;
+.objectText{ 
+    color:rgb(12, 1, 1);
+    font-size: 18px;
     text-align: center;
     text-align-last: center;
-    margin-left: 630px;
-    
-   
-    
+    margin-left: auto;
+    margin-top: 70px;  
 }
 .quality{
     width: 318px;
+    font-size: 12px
+}
+.objecTitle{
+    margin-left: 530px;
+    margin-top: 70px;
 }
 .block{
-
+    margin-top: 72px;
+}
+.line{
+    border-top:2px solid black;
+}
+.objects2{
+    margin-top: 62px;
+}
+.objectImages{
+    margin-left: -30px
+}
+.cursor1{
+    margin-top: 219px;
+}
+.cursor2{
+    margin-top: 219px;
+    margin-left: 30px
+}
+.address{
+    margin-left: 167px;
+    margin-top: 46px
 }

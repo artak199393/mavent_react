@@ -5,10 +5,10 @@ import {
  
 } from 'react-bootstrap';
 import {css} from 'aphrodite';
-import styles from './NavigationStyle';
-import vk from './img/vk.png';
-import fb from './img/fb.png';
-import Layer18 from './img/Layer18.png'
+import styles from '../NavigationStyle';
+import vk from '../img/vk.png';
+import fb from '../img/fb.png';
+import Layer18 from '../img/Layer18.png'
 
 class Navigation extends React.Component {
   constructor(props){

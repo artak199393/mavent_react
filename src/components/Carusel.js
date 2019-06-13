@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
+import '../App.css';
 import { Button, Carousel } from 'react-bootstrap';
-import slider from './img/slider.png'
-import image from './img/image.png'
+import slider from '../img/slider.png'
+import image from '../img/image.png'
 // import image1 from './image1.png'
 // import image1 from './img/image1.png'
 class Carusel extends React.Component {

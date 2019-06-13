@@ -1,0 +1,17 @@
+.contact{
+    text-align: center;
+    color: #656f85;
+    line-height: 22px;
+    padding-top: 100px;
+}
+.contactTitle{
+    text-align: center;
+    color: #656f85;
+    padding-top: 110px;
+}
+.mapDiv{
+    margin-top: 98px;
+}
+.map{
+    border: 0px;
+}
