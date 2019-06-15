@@ -1,0 +1,21 @@
+.footerImg{
+    background-image: url("../img/futer.png");
+    width: 100%;
+    height: 216px;
+    margin-top: 96px;
+    text-align: center;
+}
+.footerTitle1{
+    color: #394759;
+}
+.footerTitle2{
+    color: #ea212d;
+}
+.footerText{
+    color: #fff;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.footer{
+    padding-top: 68px;
+}

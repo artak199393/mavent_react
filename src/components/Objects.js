@@ -10,7 +10,7 @@ import Objects2 from '../components/Objects2'
 class Objects extends React.Component {
   render(){
     return (
-      <div >
+      <div className='objectsConteiner'>
         <div className="objectsIcon1" >
           <img  src={icon1}/>
         </div>

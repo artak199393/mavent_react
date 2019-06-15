@@ -6,6 +6,7 @@ import{
     }from 'react-bootstrap';
 import '../style/ContactDetails.css';
 import Iframe from 'react-iframe';
+import merged from '../img/merged.png';
 
 class ContactDetails extends React.Component {
     render(){
@@ -40,6 +41,9 @@ class ContactDetails extends React.Component {
                         id="myId"
                         className="map"
                         position="relative"/>
+                </div>
+                <div >
+                    <img src={merged} className='sponsr'/>
                 </div>
             </div>
         );

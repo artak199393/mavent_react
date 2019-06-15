@@ -6,11 +6,12 @@ import{InputGroup,
     }from 'react-bootstrap';
 import '../style/Feedback.css';
 
+
 class Feedback extends React.Component {
     render(){
         return (
             <div className='feedbackImg'>
-                <div className='title'>
+                <div className='title1'>
                     <h1 >Обратная связь</h1>
                     <h6 className='titleText'>Если у вас есть вопросы, оставьте ваши контактные
                         данные и мы свяжемся с вами.

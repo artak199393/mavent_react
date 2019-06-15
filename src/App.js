@@ -8,8 +8,8 @@ import MaventSistem from './components/MaventSistem';
 import Objects from './components/Objects';
 import Feedback from './components/Feedback'
 import ContactDetails from './components/ContactDetails';
-
-
+import LatesNews from './components/LatestNews';
+import Footer from './components/Footer'
 
 class App extends React.Component {
   render(){
@@ -22,6 +22,8 @@ class App extends React.Component {
       <Objects/>
       <Feedback/>
       <ContactDetails/>
+      <LatesNews/>
+      <Footer/>
       </div>
     );
   }

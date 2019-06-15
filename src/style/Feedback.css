@@ -1,9 +1,8 @@
 .feedbackImg{
     background-image: url('../img/callback.png');
     height: 730px;
-    color: white;
+    color: #fff;;
     margin-top: 82px
-    
 }
 .inputGroup{
     width: 335px;
@@ -15,9 +14,10 @@
     width: 335px;
     height: 42px;
 }
-.title{
+.title1{
     padding-top: 70px;
     text-align: center;
+    color: #fff
 }
 .titleText{
     padding-top: 30px;

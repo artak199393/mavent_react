@@ -3,7 +3,7 @@
     margin-left: 630px;
 }
 .objectText{ 
-    color:rgb(12, 1, 1);
+    color:#656f85;
     font-size: 18px;
     text-align: center;
     text-align-last: center;
@@ -12,14 +12,17 @@
 }
 .quality{
     width: 318px;
-    font-size: 12px
+    font-size: 12px;
+    color: #4b586b;
 }
 .objecTitle{
     margin-left: 530px;
     margin-top: 70px;
+    color: #4b586b
 }
 .block{
     margin-top: 72px;
+    color: #303d4e
 }
 .line{
     border-top:2px solid black;
